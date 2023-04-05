@@ -4,6 +4,8 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "zjg555543",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": "https://github.com/zjg555543/firstvsextension",
   "engines": {
     "vscode": "^1.77.0"
   },
